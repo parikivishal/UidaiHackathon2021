@@ -1,0 +1,11 @@
+﻿#heading
+{
+    height:10%;
+    width:auto;
+}
+#heading #logo
+{
+    width:100px;
+    height:70px;
+    float:right;
+}
